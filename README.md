@@ -1,15 +1,9 @@
 # Hey, I'm Dan 👋
 
-> Software Engineer @ Boeing · Notre Dame Alum · Building things that move, think, and blow up creepers
-
----
-
 ## 🎓 Background
 
 - **B.S. Computer Engineering** & **M.S. Computer Science & Engineering** — University of Notre Dame ☘️
-- **Software Engineer @ Boeing** — working in autonomy under the **Modular Open Source Architecture (MOSA)** framework
-
----
+- **Software Engineer @ Boeing** — supporting autonomy development and **Modular Open Source Architecture (MOSA)**
 
 ## 🛠️ Tech Stack
 
@@ -22,43 +16,14 @@
 ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white)
 
 ### Frameworks & Tools
-![Unity](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white)
+![Godot](https://img.shields.io/badge/Godot-478CBF?style=flat-square&logo=godot-engine&logoColor=white)
 ![NeoForged](https://img.shields.io/badge/NeoForged-Minecraft_Modding-62B547?style=flat-square&logo=minecraft&logoColor=white)
-
----
 
 ## 🎯 Interests
 
-<table>
-  <tr>
-    <td valign="top" width="50%">
-
-**🎮 Game Development**
-- Unity game design & prototyping
-- Godot for lightweight 2D/3D projects
-
-**⛏️ Minecraft Modding**
-- Custom mods with NeoForged
-- Tweaking the game since before it was cool
-
-    </td>
-    <td valign="top" width="50%">
-
-**📊 Sports Analytics & Betting**
-- Modeling outcomes, finding edges
-- Python-powered data pipelines
-
-**🤖 Machine Learning**
-- Deep learning with PyTorch
-- Applied ML in autonomy & robotics contexts
-
-    </td>
-  </tr>
-</table>
-
-## 📈 GitHub Stats
- 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Dschrag2&show_icons=true&theme=dark&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dschrag2&layout=compact&theme=dark&hide_border=true)
----
+- 🎮 **Game Development** — Unity & Godot for 2D/3D projects
+- ⛏️ **Minecraft Modding** — custom mods with NeoForged
+- 📊 **Sports Analytics & Betting** — modeling outcomes and finding edges with Python
+- 🤖 **Machine Learning** — deep learning with PyTorch, applied in autonomy & analytics contexts

@@ -1,6 +1,6 @@
 # Hey, I'm Dan 👋
 
-I'm a Software Engineer blending rigorous aerospace autonomy development with creative side passions in gaming, modding, and data science. 
+I'm a Software Engineer blending aerospace software development with creative side passions in gaming, modding, and data science. 
 
 ## 🎓 Background
 
